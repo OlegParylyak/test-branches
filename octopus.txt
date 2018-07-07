@@ -1,3 +1,0 @@
-Hello, I'm octopus!
-I have glasses.
-And I have a hat.txt
